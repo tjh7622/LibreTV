@@ -49,7 +49,7 @@ const API_SITES = {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
         name: '如意资源',
         adult: false
-    }
+    },
     // 👇 新添加的高质量内置采集源（均为 MacCMS provide/vod 格式）
 'liangzi': {
     api: 'https://cj.lziapi.com/api.php/provide/vod',
