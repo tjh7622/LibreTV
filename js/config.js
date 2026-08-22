@@ -121,6 +121,16 @@ const API_SITES = {
     name: '红牛资源',
     adult: false
 },
+'suoni': {
+    api: 'https://api.suoniapi.com/api.php/provide/vod',
+    name: '索尼资源',
+    adult: true
+},
+'smwy': {
+    api: 'https://api.smwyapi.com/api.php/provide/vod',
+    name: '双马尾资源',
+    adult: true
+},
     // 👆 新添加的内置采集源
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
