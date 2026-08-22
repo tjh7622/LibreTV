@@ -16,6 +16,12 @@
       "source": "/player.html/:path*",
       "destination": "/player.html"
     },
+    // 在这里插入下面这一段，放在 /:path* 之前
+    {
+      "source": "/tmdb-proxy",
+      "destination": "/api/tmdb-proxy"
+    },
+    // 保持兜底规则在最后
     {
       "source": "/:path*",
       "destination": "/:path*"
