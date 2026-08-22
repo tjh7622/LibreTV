@@ -406,7 +406,6 @@ const API_SITES = {
         name: '空内容测试源',
         adult: true
     },
-    }
     // 👆 新添加的内置采集源
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
