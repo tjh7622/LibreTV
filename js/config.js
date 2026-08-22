@@ -50,6 +50,77 @@ const API_SITES = {
         name: '如意资源',
         adult: false
     }
+    // 👇 新添加的高质量内置采集源（均为 MacCMS provide/vod 格式）
+'liangzi': {
+    api: 'https://cj.lziapi.com/api.php/provide/vod',
+    name: '量子资源',
+    adult: false
+},
+'feifan': {
+    api: 'https://cj.ffzyapi.com/api.php/provide/vod',
+    name: '非凡资源',
+    adult: false
+},
+'yinghua': {
+    api: 'https://m3u8.apiyhzy.com/api.php/provide/vod',
+    name: '樱花资源',
+    adult: false
+},
+'jizhi': {
+    api: 'https://jizzyapi.com/api.php/provide/vod',
+    name: '极致资源',
+    adult: false
+},
+'wolong': {
+    api: 'https://collect.wolongzyw.com/api.php/provide/vod',
+    name: '卧龙资源',
+    adult: false
+},
+'tiankong': {
+    api: 'https://api.tiankongapi.com/api.php/provide/vod',
+    name: '天空资源',
+    adult: false
+},
+'wujin': {
+    api: 'https://api.wujinapi.me/api.php/provide/vod',
+    name: '无尽资源',
+    adult: false
+},
+'piaohua': {
+    api: 'https://www.phpsdy.com/api.php/provide/vod',
+    name: '飘花资源',
+    adult: false
+},
+'xinlang': {
+    api: 'https://api.xinlangapi.com/api.php/provide/vod',
+    name: '新浪资源',
+    adult: false
+},
+'kuaikan': {
+    api: 'https://kuaikanzy.com/api.php/provide/vod',
+    name: '快看资源',
+    adult: false
+},
+'lezhu': {
+    api: 'https://api.lezhuapi.com/api.php/provide/vod',
+    name: '乐猪资源',
+    adult: false
+},
+'bajie': {
+    api: 'https://api.bajieapi.com/api.php/provide/vod',
+    name: '八戒资源',
+    adult: false
+},
+'huale': {
+    api: 'https://api.hualeapi.com/api.php/provide/vod',
+    name: '华乐资源',
+    adult: false
+},
+'hongniu': {
+    api: 'https://www.hongniuzy.com/api.php/provide/vod',
+    name: '红牛资源',
+    adult: false
+},
     // 👆 新添加的内置采集源
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
