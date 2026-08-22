@@ -100,7 +100,6 @@ const API_SITES = {
     'doudouzy': { api: 'https://api.douapi.cc/api.php/provide/vod', name: '🔞豆豆资源', adult: true },
     'didizycom': { api: 'https://api.ddapi.cc/api.php/provide/vod', name: '🔞滴滴资源', adult: true },
     'heiliaozy': { api: 'https://www.heiliaozyapi.com/api.php/provide/vod', name: '🔞黑料资源', adult: true }
-};
     // 👆 新添加的内置采集源
     //ARCHIVE https://telegra.ph/APIs-08-12
 };
